@@ -201,11 +201,11 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/header.jpg) no-repeat center top;
+	background: url(../img/header.jpeg) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 700px;
+	min-height: 900px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
