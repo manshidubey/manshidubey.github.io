@@ -1,9 +1,4 @@
-/*
-    Theme Name: Laura
-    Theme URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
+
 
 body {
 	line-height: 1.4;
@@ -78,11 +73,11 @@ Responsive media queries
 
 .top-nav-collapse {
     padding: 0; 
-    background: rgba(50,60,70, 0.9);
+    background: rgb(0,102,102,0.95);/*rgba(50,60,20, 0.9);*/
 }
 
 .bg-color{
-	background-color: RGBA(0, 0, 0, 0.67);
+	background-color: RGBA(33, 3, 22, 0.68);
 	min-height: 650px;
 }
 .navbar-border{
@@ -189,7 +184,7 @@ blockquote {
 .test-sec span.testimonials-name {
     color: #62646f;
     font-weight: 600;
-    margin: 16px 0 5px;
+   margin: 16px 0 5px;
 }
 #contact {
     width: 100%;
@@ -357,4 +352,8 @@ Responsive media queries
 	.title-text{
 	margin-bottom: 15px;
 	}
+
+
+   
+}
 }
