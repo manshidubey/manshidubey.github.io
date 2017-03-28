@@ -73,15 +73,40 @@ Responsive media queries
 
 .top-nav-collapse {
     padding: 0; 
-    background: rgb(0,102,102,0.95);/*rgba(50,60,20, 0.9);*/
+    background: RGBA(33, 3, 22, 0.8);
 }
 
 .bg-color{
-	background-color: RGBA(33, 3, 22, 0.68);
+	background-color: RGBA(33, 3, 22, 0.75);
 	min-height: 650px;
 }
 .navbar-border{
 }
+
+.btn-transparent {
+    background: transparent;
+    color: #FFF;
+    border: 2px solid #000;
+}
+
+.button-trans {
+    
+    background-color: transparent;
+    border: 2px solid #000;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+    font: 12px Trebuchet MS;
+    padding: 10px 9px;
+    text-decoration: none;
+    vertical-align: middle;
+    horizantal-allign: middle;
+
+}
+ .btn-transparent:hover {
+        color: white;
+        background-color: rgba(255,255,255,0.2);
+    }
 .banner-text{
 	border-left: 5px solid #BE2525;
 	padding: 15px 40px;
